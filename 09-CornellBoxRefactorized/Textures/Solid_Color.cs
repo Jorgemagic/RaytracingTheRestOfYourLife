@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Numerics;
 using System.Text;
 
-namespace _17_StandardCornellBox
+namespace _09_CornellBoxRefactorized
 {
     public class Solid_Color : Texture
     {

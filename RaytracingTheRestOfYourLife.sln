@@ -19,15 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-IntegratingX2FinalVersio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-ImportanceSampledPointOnUnitSphere", "08-ImportanceSampledPointOnUnitSphere\08-ImportanceSampledPointOnUnitSphere.csproj", "{A7618C06-E970-4C08-8D04-9E86BD15792E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-CornellBoxRefactorized", "09-CornellBoxRefactorized\09-CornellBoxRefactorized.csproj", "{3C0E795E-D5A4-4F3F-8676-200860714B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-CornellBoxRefactorized", "09-CornellBoxRefactorized\09-CornellBoxRefactorized.csproj", "{3C0E795E-D5A4-4F3F-8676-200860714B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CornellBoxWithDifferentSamplingStrategy", "10-CornellBoxWithDifferentSamplingStrategy\10-CornellBoxWithDifferentSamplingStrategy.csproj", "{0275FEBD-30B6-49D2-8CB3-C961F4F4786E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-CornellBoxWithDifferentSamplingStrategy", "10-CornellBoxWithDifferentSamplingStrategy\10-CornellBoxWithDifferentSamplingStrategy.csproj", "{0275FEBD-30B6-49D2-8CB3-C961F4F4786E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-RandomPointsUnitSphere", "11-RandomPointsUnitSphere\11-RandomPointsUnitSphere.csproj", "{88BDAAE3-4A0F-4791-93B8-8C4210EECC3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-RandomPointsUnitSphere", "11-RandomPointsUnitSphere\11-RandomPointsUnitSphere.csproj", "{88BDAAE3-4A0F-4791-93B8-8C4210EECC3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-IntegrationUsingCos3(x)", "12-IntegrationUsingCos3(x)\12-IntegrationUsingCos3(x).csproj", "{D8902CAD-E38D-4C92-9370-25550EFD5D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-IntegrationUsingCos3(x)", "12-IntegrationUsingCos3(x)\12-IntegrationUsingCos3(x).csproj", "{D8902CAD-E38D-4C92-9370-25550EFD5D88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-IntegrationCosineDensityFunction", "13-IntegrationCosineDensityFunction\13-IntegrationCosineDensityFunction.csproj", "{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-IntegrationCosineDensityFunction", "13-IntegrationCosineDensityFunction\13-IntegrationCosineDensityFunction.csproj", "{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-CornellBoxONBScatterFunction", "14-CornellBoxONBScatterFunction\14-CornellBoxONBScatterFunction.csproj", "{913549A7-29A7-4047-99B1-0C12BAC7ECB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

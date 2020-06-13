@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _17_StandardCornellBox
+namespace _10_CornellBoxWithDifferentSamplingStrategy
 {
     public class BVH_Node : HitTable
     {

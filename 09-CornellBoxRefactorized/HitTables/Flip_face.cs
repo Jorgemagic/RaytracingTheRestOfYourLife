@@ -1,5 +1,5 @@
 ﻿
-namespace _17_StandardCornellBox
+namespace _09_CornellBoxRefactorized
 {
     public class Flip_face : HitTable
     {

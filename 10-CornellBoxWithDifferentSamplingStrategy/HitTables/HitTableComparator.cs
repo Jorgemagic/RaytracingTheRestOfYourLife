@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 
-namespace _17_StandardCornellBox
+namespace _10_CornellBoxWithDifferentSamplingStrategy
 {
     public class XComparator : IComparer<HitTable>
     {

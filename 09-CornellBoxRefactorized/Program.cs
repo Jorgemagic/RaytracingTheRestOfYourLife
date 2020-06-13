@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Numerics;
 
-namespace _17_StandardCornellBox
+namespace _09_CornellBoxRefactorized
 {
     public class Program
     {

@@ -2,7 +2,7 @@
 using SixLabors.ImageSharp.PixelFormats;
 using System.Runtime.InteropServices;
 
-namespace _17_StandardCornellBox
+namespace _10_CornellBoxWithDifferentSamplingStrategy
 {
     public class TextureHelper
     {

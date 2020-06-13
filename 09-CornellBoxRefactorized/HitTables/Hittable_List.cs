@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace _17_StandardCornellBox
+namespace _09_CornellBoxRefactorized
 {
     public class Hitable_List : HitTable
     {

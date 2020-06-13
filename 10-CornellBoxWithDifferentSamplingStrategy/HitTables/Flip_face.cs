@@ -1,5 +1,5 @@
 ﻿
-namespace _17_StandardCornellBox
+namespace _10_CornellBoxWithDifferentSamplingStrategy
 {
     public class Flip_face : HitTable
     {

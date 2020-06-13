@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace _17_StandardCornellBox
+namespace _10_CornellBoxWithDifferentSamplingStrategy
 {
     public class XY_rect : HitTable
     {
