@@ -18,7 +18,7 @@ namespace _16_CornellBoxLightEmittedDownwardDirection
 
             objects.Add(new Flip_face(new YZ_rect(0, 555, 0, 555, 555, green)));
             objects.Add(new YZ_rect(0, 555, 0, 555, 0, red));
-            objects.Add(new XZ_rect(213, 343, 227, 332, 554, light));
+            objects.Add(new Flip_face(new XZ_rect(213, 343, 227, 332, 554, light)));
             objects.Add(new Flip_face(new XZ_rect(0, 555, 0, 555, 0, white)));
             objects.Add(new XZ_rect(0, 555, 0, 555, 555, white));
             objects.Add(new Flip_face(new XY_rect(0, 555, 0, 555, 555, white)));

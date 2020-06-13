@@ -13,7 +13,7 @@ namespace _16_CornellBoxLightEmittedDownwardDirection
 
         public override Vector3 Emitted(Ray r_in, Hit_Record rec, float u, float v, Vector3 p)
         {
-            if (!rec.Front_face)
+            if (rec.Front_face)
             {
                 return this.emit.Value(u, v, p);
             }
