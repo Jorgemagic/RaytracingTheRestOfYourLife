@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-CornellBoxCosineDensity"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-CornellBoxHittableLight", "18-CornellBoxHittableLight\18-CornellBoxHittableLight.csproj", "{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-CornellBoxMixtureDensity", "19-CornellBoxMixtureDensity\19-CornellBoxMixtureDensity.csproj", "{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
