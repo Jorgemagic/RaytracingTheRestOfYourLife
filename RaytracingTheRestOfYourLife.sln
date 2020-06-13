@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-CornellBoxONBScatterFunc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-CornellBoxSamplingOnlyTheLight", "15-CornellBoxSamplingOnlyTheLight\15-CornellBoxSamplingOnlyTheLight.csproj", "{146242BC-FCAF-4EEC-B2D8-A3A32252995D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-CornellBoxLightEmittedDownwardDirection", "16-CornellBoxLightEmittedDownwardDirection\16-CornellBoxLightEmittedDownwardDirection.csproj", "{71EBAEA3-B5FC-4563-8151-689CD99820A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
