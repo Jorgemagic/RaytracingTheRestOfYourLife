@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-IntegrationCosineDensity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-CornellBoxONBScatterFunction", "14-CornellBoxONBScatterFunction\14-CornellBoxONBScatterFunction.csproj", "{913549A7-29A7-4047-99B1-0C12BAC7ECB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-CornellBoxSamplingOnlyTheLight", "15-CornellBoxSamplingOnlyTheLight\15-CornellBoxSamplingOnlyTheLight.csproj", "{146242BC-FCAF-4EEC-B2D8-A3A32252995D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913549A7-29A7-4047-99B1-0C12BAC7ECB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146242BC-FCAF-4EEC-B2D8-A3A32252995D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
