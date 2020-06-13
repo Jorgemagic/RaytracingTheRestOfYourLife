@@ -29,11 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-IntegrationUsingCos3(x)"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-IntegrationCosineDensityFunction", "13-IntegrationCosineDensityFunction\13-IntegrationCosineDensityFunction.csproj", "{E7C011B2-5C78-405C-B395-EB87C7E1E8F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-CornellBoxONBScatterFunction", "14-CornellBoxONBScatterFunction\14-CornellBoxONBScatterFunction.csproj", "{913549A7-29A7-4047-99B1-0C12BAC7ECB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-CornellBoxONBScatterFunction", "14-CornellBoxONBScatterFunction\14-CornellBoxONBScatterFunction.csproj", "{913549A7-29A7-4047-99B1-0C12BAC7ECB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-CornellBoxSamplingOnlyTheLight", "15-CornellBoxSamplingOnlyTheLight\15-CornellBoxSamplingOnlyTheLight.csproj", "{146242BC-FCAF-4EEC-B2D8-A3A32252995D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-CornellBoxSamplingOnlyTheLight", "15-CornellBoxSamplingOnlyTheLight\15-CornellBoxSamplingOnlyTheLight.csproj", "{146242BC-FCAF-4EEC-B2D8-A3A32252995D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-CornellBoxLightEmittedDownwardDirection", "16-CornellBoxLightEmittedDownwardDirection\16-CornellBoxLightEmittedDownwardDirection.csproj", "{71EBAEA3-B5FC-4563-8151-689CD99820A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-CornellBoxLightEmittedDownwardDirection", "16-CornellBoxLightEmittedDownwardDirection\16-CornellBoxLightEmittedDownwardDirection.csproj", "{71EBAEA3-B5FC-4563-8151-689CD99820A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-CornellBoxCosineDensity", "17-CornellBoxCosineDensity\17-CornellBoxCosineDensity.csproj", "{EDC6F9EF-218B-404F-A0FB-0A15D8504D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-CornellBoxHittableLight", "18-CornellBoxHittableLight\18-CornellBoxHittableLight.csproj", "{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EBAEA3-B5FC-4563-8151-689CD99820A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC6F9EF-218B-404F-A0FB-0A15D8504D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC6F9EF-218B-404F-A0FB-0A15D8504D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC6F9EF-218B-404F-A0FB-0A15D8504D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC6F9EF-218B-404F-A0FB-0A15D8504D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8F2978-74F1-4BE7-AB1D-657F78FDC32F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
