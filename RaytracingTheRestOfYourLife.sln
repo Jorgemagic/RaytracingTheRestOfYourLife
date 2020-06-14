@@ -43,6 +43,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-CornellBoxMixtureDensity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-CornellBoxArbitraryPDFFunctions", "20-CornellBoxArbitraryPDFFunctions\20-CornellBoxArbitraryPDFFunctions.csproj", "{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-CornellBoxGlassSphere", "21-CornellBoxGlassSphere\21-CornellBoxGlassSphere.csproj", "{CE681A83-EB5B-42E6-B009-E837F640EF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-CornellBoxGlashAndLight", "22-CornellBoxGlashAndLight\22-CornellBoxGlashAndLight.csproj", "{D13C8006-F14B-4302-990D-31A426D3E2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-CornellBoxAntiAcne", "23-CornellBoxAntiAcne\23-CornellBoxAntiAcne.csproj", "{FE3522DA-6BDB-4772-87DA-41775622043B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +135,18 @@ Global
 		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE681A83-EB5B-42E6-B009-E837F640EF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE681A83-EB5B-42E6-B009-E837F640EF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE681A83-EB5B-42E6-B009-E837F640EF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE681A83-EB5B-42E6-B009-E837F640EF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13C8006-F14B-4302-990D-31A426D3E2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13C8006-F14B-4302-990D-31A426D3E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13C8006-F14B-4302-990D-31A426D3E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13C8006-F14B-4302-990D-31A426D3E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3522DA-6BDB-4772-87DA-41775622043B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3522DA-6BDB-4772-87DA-41775622043B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3522DA-6BDB-4772-87DA-41775622043B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3522DA-6BDB-4772-87DA-41775622043B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
