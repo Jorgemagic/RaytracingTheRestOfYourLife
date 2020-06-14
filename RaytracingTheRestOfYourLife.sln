@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-CornellBoxHittableLight"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-CornellBoxMixtureDensity", "19-CornellBoxMixtureDensity\19-CornellBoxMixtureDensity.csproj", "{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-CornellBoxArbitraryPDFFunctions", "20-CornellBoxArbitraryPDFFunctions\20-CornellBoxArbitraryPDFFunctions.csproj", "{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158EE4D7-C217-4951-A2E4-BCC4CFEE0334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECBDD3E-0792-4BF6-8681-15559E8ED32D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
